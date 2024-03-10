@@ -1,0 +1,9 @@
+{"path":"test.psl","content":"
+def say string:text
+  print @text
+end
+
+def init
+  say "Hello world"
+end
+"}
