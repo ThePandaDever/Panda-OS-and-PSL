@@ -7,15 +7,9 @@ You can use PSL (panda scripting language) in Turbowarp in any project, just men
 Sample PSL code: 
 
 func say string:text
-
   print @text
-  
 end
-
 
 func init
-
   say "Hello World"
-
 end
-
