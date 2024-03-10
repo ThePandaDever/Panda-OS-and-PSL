@@ -8,7 +8,7 @@ Sample PSL code:
 
 func say string:text
 
-print @text
+  print @text
 end
 
 func init
