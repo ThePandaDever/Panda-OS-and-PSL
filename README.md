@@ -4,11 +4,18 @@ Based around my own coding language and making an os that runs on it for fun and
 
 You can use PSL (panda scripting language) in Turbowarp in any project, just mention me :3
 
-Sample PSL code:
+Sample PSL code: 
+
 func say string:text
+
   print @text
-end`
+  
+end
+
 
 func init
+
   say "Hello World"
+
 end
+
